@@ -1,6 +1,6 @@
-name: week-4
+name: .conda
 dependencies:
-  - python=3.11
+  - python=3.13.5
   - pip
   - pip:
     - ipykernel  # for Jupyter Notebook
